@@ -1,0 +1,11 @@
+{
+  "name": "yarn-teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ezequiel",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "moment": "^2.29.1"
+  }
+}
